@@ -1,2 +1,1 @@
-# Four-card-feature-section
-HTML &amp; CSS
+#This is a HTML & CSS responsive design!
